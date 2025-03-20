@@ -2,7 +2,7 @@
 
 **`Frontend Developer`**
 
-My name is Willian, I am 21 years old, and I am a Software Engineering student. I have experience in full-stack development, with a focus on front-end, and have worked on improving and fixing web systems. I am passionate about technology and always strive to enhance my software development skills.
+Hi, my name is Willian, I’m a 21-year-old Software Engineering student with experience in full-stack development, focusing on front-end. I’ve worked on improving and fixing web systems and am passionate about technology, always looking to enhance my software development skills.
 ---
 
 
